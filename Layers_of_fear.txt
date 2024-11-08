@@ -1,0 +1,43 @@
+**1. Type de jeu**
+
+**Layers of Fear** est un jeu d'horreur psychologique à la première personne. Pas de monstres à tuer, c’est surtout une question d’atmosphère et de narration où l’horreur vient des lieux qui changent et de l’histoire qui se dévoile petit à petit.
+
+**2. Mécaniques après une heure de jeu**
+
+Après une heure de jeu, tu passes ton temps à explorer, ouvrir des portes, lire des documents et résoudre des énigmes. Ce qui m’a vraiment frappé, c’est la façon dont les pièces se transforment. Tu crois connaître un endroit, mais ça change sans prévenir, et ça te perturbe.
+
+**3. Immersion**
+
+Le jeu te met vraiment dans une ambiance étrange et oppressante. Les sons bizarres, la lumière qui change, les murs qui bougent, tout ça te garde dans un état constant de malaise. Le jeu manipule ton espace pour te faire douter de ta perception. C’est super efficace pour te plonger dans l’horreur.
+
+**4. Gamefeel**
+
+Le **gamefeel**, c’est la sensation que tu ressens en jouant. Dans **Layers of Fear**, ça passe par des petites animations lentes quand tu prends un objet ou ouvres une porte, ce qui te donne un sentiment de poids. Les bruits d’ambiance, les changements de lumière, tout ça te fait vraiment sentir l’angoisse.
+
+**5. Game over**
+
+Il n’y a pas vraiment de game over ici. Plutôt que de mourir, tu perds petit à petit tes repères. L’espace autour de toi change constamment, et tu te retrouves à douter de ce qui est réel.
+
+**6. Labyrinthe dynamique**
+
+Les pièces bougent grâce à des scripts qui déclenchent des événements quand tu passes dans certaines zones. Par exemple, un mur peut se déplacer ou une porte se fermer toute seule. C’est ce qui rend l’environnement si déstabilisant.
+
+**7. Avis perso**
+
+J’ai adoré le jeu ! Il ne repose pas sur des jumpscares, mais sur une ambiance super bien faite. L’horreur psychologique, ça m’a vraiment pris au tripes. Le fait que l’environnement change tout le temps te garde dans une tension constante.
+
+---
+
+**Pratique**
+
+**1. Mécanique principale**  
+Le changement de l’environnement (les pièces qui bougent, les portes qui se ferment) est la mécanique principale qui rend le jeu flippant.
+
+**2. Mise en place sous Unreal Engine 5**  
+J’ai créé des pièces basiques et utilisé des **Blueprints** pour que des murs bougent ou des portes se ferment selon l’endroit où tu es. Chaque événement est déclenché par un **trigger** que le joueur active en entrant dans une zone.
+
+**3. Importance de la mécanique**  
+Cette mécanique fait que tu ne peux jamais te sentir à l’aise dans le jeu, c’est essentiel pour créer cette peur constante. Tu perds toujours tes repères, et c’est ça qui rend le jeu si immersif.
+
+**4. Pourquoi j’ai aimé cette mécanique**  
+Ce que j’aime, c’est que ça rend chaque exploration stressante. Tu sais jamais à quoi t’attendre et ça te fait douter de tout. C’est une façon super efficace de garder la tension.
